@@ -1,1 +1,1 @@
-There are 12.6803 cups in 3 liters
+There are {{firstAmount}} {{firstUnit}} in {{secondAmount}} {{secondUnit}}

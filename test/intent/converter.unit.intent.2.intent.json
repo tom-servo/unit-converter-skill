@@ -1,0 +1,5 @@
+{
+    "expected_response": "There are 202.884 teaspoons in 1 liter",
+    "intent_type": "converter.unit.intent",
+    "utterance": "How many teaspoons in a liter"
+}
