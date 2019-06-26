@@ -1,5 +1,4 @@
 How many {{firstUnit}} in {{secondAmount}} {{secondUnit}}
-How many {{firstUnit}} is there in {{secondAmount}} {{secondUnit}}
 How many {{firstUnit}} are there in {{secondAmount}} {{secondUnit}}
 number of {{firstUnit}} in {{secondAmount}} {{secondUnit}}
 convert {{secondAmount}} {{secondUnit}} to {{firstUnit}}
